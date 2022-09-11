@@ -1,0 +1,32 @@
+{
+  "num_mip_levels": 4,
+  "padding": 8,
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "texture_data": {
+    "netherrack" : {
+      "textures": {
+        "variations": [
+          {"path":"textures/blocks/netherrack"},
+          {"path":"textures/blocks/netherrack_2"},
+          {"path":"textures/blocks/netherrack_3"},
+          {"path":"textures/blocks/netherrack_4"},
+          {"path":"textures/blocks/netherrack_5"},
+          {"path":"textures/blocks/netherrack_6"}
+        ]
+      }
+    },
+    "quartz_ore" : {
+      "textures": {
+        "variations": [
+          {"path":"textures/blocks/quartz_ore"},
+          {"path":"textures/blocks/quartz_ore_2"},
+          {"path":"textures/blocks/quartz_ore_3"},
+          {"path":"textures/blocks/quartz_ore_4"},
+          {"path":"textures/blocks/quartz_ore_5"},
+          {"path":"textures/blocks/quartz_ore_6"}
+        ]
+      }
+    }
+  }
+}
